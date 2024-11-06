@@ -1,0 +1,38 @@
+[
+  {
+    "color": "lightbrown",
+    "type": "cat",
+    "size": "nano",
+    "name": "yudi"
+  },
+  {
+    "color": "gray",
+    "type": "totoro",
+    "size": "large",
+    "name": "udil"
+  },
+  {
+    "color": "white",
+    "type": "fox",
+    "size": "nano",
+    "name": "ecaa"
+  },
+  {
+    "color": "green",
+    "type": "deno",
+    "size": "nano",
+    "name": "farhan"
+  },
+  {
+    "color": "gray",
+    "type": "rocky",
+    "size": "nano",
+    "name": "ilham"
+  },
+  {
+    "color": "magical",
+    "type": "horse",
+    "size": "nano",
+    "name": "buser"
+  }
+]
